@@ -1,8 +1,8 @@
-###El plantuml del diagrama:
+#El plantuml del diagrama:
 
 ![LA REBY ME LO PASO](Imagen.png)
 
-###Codigo:
+#Codigo:
 ```
 abstract class Figure{
 
